@@ -17,9 +17,10 @@ tatacara penggunaan git
 ![img.7](screenshoot/2022-10-19%20(1).png)
 
 5. cara membuat repository di git hub
-![img.7](screenshoot/7.png)
+![img.8](screenshoot/7.png)
 
 6. cara menambahkan file README.md ke repository kita
-![img.4](screenshoot/2022-10-19%20(2).png)
+![img.9](screenshoot/2022-10-19%20(2).png)
 
-7. 
+7. kirim file ke repository git hub dengan git push -u origin master
+![img.10](screenshoot/2022-10-19%20(3).png)
